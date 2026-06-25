@@ -7,6 +7,8 @@
 
 [VGG16](https://download.pytorch.org/models/vgg16-397923af.pth)
 
-[CSDN博客](https://blog.csdn.net/2201_75461596/article/details/155713682?spm=1001.2014.3001.5501)
+课程笔记链接：
+
+[CSDN笔记博客](https://blog.csdn.net/2201_75461596/article/details/155713682?spm=1001.2014.3001.5501)
 
 - 已完结
